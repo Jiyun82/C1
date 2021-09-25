@@ -1,0 +1,3 @@
+﻿  hw2.c
+C:\Users\jiyun\Documents\학교\C프\과제\C-Programming\과제4주차\과제4주차\hw2.c(10,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  과제4주차.vcxproj -> C:\Users\jiyun\Documents\학교\C프\과제\C-Programming\과제4주차\Debug\과제4주차.exe
